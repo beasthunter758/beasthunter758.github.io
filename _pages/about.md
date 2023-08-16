@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me 👨‍🎓
 
-Hello there! 👋 I'm Pratik Sinha, a recent graduate from XIM University with a degree in Computer Science and Engineering. I'm on a mission to explore the endless possibilities at the nexus of technology and innovation, and my academic journey has been a thrilling ride so far! 🚀
+I am a recent graduate from XIM University with a degree in Computer Science and Engineering. I'm on a mission to explore the endless possibilities at the nexus of technology and innovation, and my academic journey has been a thrilling ride so far! 🚀
 
 ## Academic Journey 📚
 
