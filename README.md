@@ -36,10 +36,10 @@ In this customized version of the theme, I have tailored the website's design an
 
 I'm always open to connecting with fellow researchers, enthusiasts, and collaborators. Let's engage in meaningful discussions and explore opportunities for collaboration.
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratik-sinha1)
-- Email: [Email](mailto:pratiksinha.cs@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/pratik-sinha1)
+- [Email](mailto:pratiksinha.cs@gmail.com)
 
 Thank you for visiting my GitHub repository and exploring my academic website. Feel free to provide feedback and suggestions!
 
 Best regards,
-[Your Full Name]
+Pratik Sinha
