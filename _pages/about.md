@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ":wave:Hello there, I'm Pratik!"
+title: "👋Hello there, I'm Pratik!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -14,7 +14,7 @@ Hello there! 👋 I'm Pratik Sinha, a recent graduate from XIM University with a
 
 ## Academic Journey 📚
 
-During my time at XIM University, I had the privilege of diving into various aspects of computer science and engineering. My thesis focused on the fascinating field of Explainable Deep Learning in Medical Imaging, leveraging techniques such as GRAD CAM to unravel the inner workings of complex models and make them more interpretable. 🧠📷
+During my time at XIM University, I had the privilege of diving into various aspects of computer science and engineering. My thesis focused on the fascinating field of Explainable Deep Learning in Medical Imaging, leveraging techniques such as Grad-CAM to unravel the inner workings of complex models and make them more interpretable. 🧠📷
 
 One of the highlights of my academic journey was a year-long capstone project that centered around Multiple Object Detection and Tracking. This project not only deepened my technical skills but also allowed me to apply my knowledge to real-world challenges. 🕵️‍♂️🔍
 
