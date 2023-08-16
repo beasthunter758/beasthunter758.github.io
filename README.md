@@ -42,4 +42,5 @@ I'm always open to connecting with fellow researchers, enthusiasts, and collabor
 Thank you for visiting my GitHub repository and exploring my academic website. Feel free to provide feedback and suggestions!
 
 Best regards,
+
 Pratik Sinha
